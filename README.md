@@ -1,2 +1,2 @@
 # hello-world
-A simple project
+this is a test project to learn git hub
